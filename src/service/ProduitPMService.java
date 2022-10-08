@@ -39,6 +39,9 @@ public class ProduitPMService  {
 
     public ProduitPMService() {
         cnx =  MyConnection.getMyCnx().getConnection();
+        
+        
+        
 
       }
 
